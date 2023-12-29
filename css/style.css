@@ -253,7 +253,7 @@ body {
   }
 }
 .top-kv {
-  background-image: url("img/kv-img.png");
+  background-image: url("https://928sekine.github.io/hamburger-shop/img/kv-img.png");
   height: 540px;
   background-repeat: no-repeat;
   background-position: 33%;
@@ -439,7 +439,7 @@ body {
 }
 
 .top-separate {
-  background-image: url("img/separate.png");
+  background-image: url("https://928sekine.github.io/hamburger-shop/img/separate.png");
   height: 226px;
   background-repeat: no-repeat;
   background-position: center;
